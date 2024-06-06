@@ -1,5 +1,5 @@
 # PassFortress
- Welcome to PassFortress - Your ultimate password manager. Securely store, manage, and access all your passwords in one place. Simplify your digital life with PassFortress.
+ Welcome to PassFortress - Your ultimate password manager. Securely store, manage, and access all your passwords in one place. Simplify your digital life with PassFortress. This app stores the passwords in local-storage of the browser in order to keep them safe. 
 
 ## Live Website
 https://kirtan134.github.io/PassFortress/
