@@ -14,7 +14,7 @@ https://kirtan134.github.io/PassFortress/
 To get started with this app, clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/kirtan134/PassFortress.git
 cd password-manager
 npm install
 ```
